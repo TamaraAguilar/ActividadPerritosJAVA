@@ -134,7 +134,22 @@ public class Objetos23febreroApplication {
 	// 	char mh = sexoPerro.charAt(0);
 	// 	Integer chipPerro = new java.util.Random().nextInt(100);
 
+// Iterar por la lista de perros y mostrar sus atributos
+		// System.out.println("¡Sus perritos están listos! Estas son sus características: ");
+		// System.out.println(misPerros);
+		// for (Perro perro : misPerros) {
+    	// 		System.out.println("Su raza es " + perro.getRaza());
+   		// 		System.out.println("Su color es " + perro.getColor());
+    	// 		System.out.println("Su tamaño es de " + perro.getTamanio() + " cm");
+    	// 		System.out.println("Su tipo de pelaje es " + perro.getPelaje());
+    	// 		System.out.println("Su sexo es " + perro.getSexo());
+		// 		System.out.println("Su número de chip asignado es " + perro.setChip());
+    	// 		System.out.println("¡Disfrute su perrito! :D");
+		// }
 
+
+		// Agregarle el nombre del Perro
+		// Hacer que se imprima de manera ordenada cada dato como en el ejercicio anterior.	
 		
 		
 			
